@@ -6,8 +6,8 @@ This, is why I decided to make this mod project.
 
 ## What will this revival project entail?
 
-At the highest priority, the project will consist of recreating the vast majority of the original mod's features and content with as much fidelity as possible. (Scratch-Alpha Stage) <--- We're here!  
-Once the original mod is recreated in a relatively bug free state that runs decently, it will be, if possible, given a Fabric port and have potential compatibility issues worked on. (Beta Stage | Once finished: Release Stage of the "Legacy" Versions)  
+At the highest priority, the project will consist of recreating the vast majority of the original mod's features and content with as much fidelity as possible. (Scratch-Alpha Stage) <--- We're here!   
+Once the original mod is recreated in a relatively bug free state that runs decently, it will be, if possible, given a Fabric port and have potential compatibility issues worked on. (Beta Stage | Once finished: Release Stage of the "Legacy" Versions)    
 After this, certain of the mod's features will be modernized, changed, or added onto, with Legacy versions entering Long Term Support. (Early release stages of the "Modern" Versions)  
 
 ### I'm not sure I understand, what will the difference between Legacy and Modern be?  
