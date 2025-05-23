@@ -17,7 +17,7 @@ The goal is to at minimum lay down the vast majority of the framework for Legacy
 The Beta Stage will consist of bug-fixing, optimizing and fine tuning the Legacy Version of the ZSS port. This includes technicalities such as:
 * Built-in Antique Atlas compatibility
 * Misc. potential compatibility issues
-* Framework for other mods to be able to use the Skills System aswell
+* Framework for other modded items to be recognized as swords by the Skills System
 * Finishing up the Skills Framework and releasing it as an isolated library mod for other modders to use.
 
 Other important elements include:
